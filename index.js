@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 let animal = "dog"
+=======
+const animal = ""
+>>>>>>> 7b67aa876d65291f9d9013418800c4c0dbae131e
 
 function myAnimal() {
   return animal
